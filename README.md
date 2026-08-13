@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0290-word-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1903-largest-odd-number-in-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Greedy
 |  |
 | ------- |
