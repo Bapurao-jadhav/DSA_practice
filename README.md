@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
