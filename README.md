@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0014-longest-common-prefix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Queue
 |  |
 | ------- |
