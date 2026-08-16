@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
