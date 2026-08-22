@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1844-replace-all-digits-with-characters](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2325-decode-the-message) |
