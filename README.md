@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2404-most-frequent-even-element](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2325-decode-the-message](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2325-decode-the-message) |
+| [2404-most-frequent-even-element](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2784-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2404-most-frequent-even-element](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2404-most-frequent-even-element) |
 ## Sliding Window
 |  |
 | ------- |
