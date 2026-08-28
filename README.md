@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2325-decode-the-message) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
