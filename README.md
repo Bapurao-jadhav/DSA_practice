@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2404-most-frequent-even-element](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2784-check-if-array-is-good) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2325-decode-the-message) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
