@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2404-most-frequent-even-element](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2325-decode-the-message](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2325-decode-the-message) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
