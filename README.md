@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0014-longest-common-prefix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
