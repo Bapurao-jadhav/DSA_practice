@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1646-get-maximum-in-generated-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1646-get-maximum-in-generated-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1646-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
