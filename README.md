@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2325-decode-the-message](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2325-decode-the-message) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2942-find-words-containing-character) |
