@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2103-rings-and-rods](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2103-rings-and-rods) |
 | [2325-decode-the-message](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2784-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2404-most-frequent-even-element) |
 ## Sliding Window
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Bapurao-jadhav/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
